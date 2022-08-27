@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sergioribeiro7820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sergioribeiro7820" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sergio ribeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio ribeiro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sergio-ribeiro-052851127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio ribeiro" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sergioribeiro78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sergioribeiro78" height="30" width="40" /></a>
 <a href="https://discord.gg/thomaz#9251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thomaz#9251" height="30" width="40" /></a>
 </p>
