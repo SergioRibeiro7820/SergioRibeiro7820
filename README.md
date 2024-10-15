@@ -1,4 +1,4 @@
-![banner](https://media.licdn.com/dms/image/v2/D4D16AQETXbZ98wezfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729010482972?e=1734566400&v=beta&t=bkwyVj_F75XBrkb44BIAfzEFrBKcqAOYWMgx00KWCk4?raw=true)
+![banner](https://media.licdn.com/dms/image/v2/D4D16AQETXbZ98wezfg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729010482972?e=1734566400&v=beta&t=bkwyVj_F75XBrkb44BIAfzEFrBKcqAOYWMgx00KWCk4=true)
 
 <h1 align="center">👋 Oi, Eu sou Sergio Ribeiro</h1>
 <h3 align="center">Aqui você encontra Front-End e Back-End, APIs, React, JavaScript.</h3>
