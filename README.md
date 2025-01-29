@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://images.pexels.com/photos/1666315/pexels-photo-1666315.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="https://images.pexels.com/photos/1666315/pexels-photo-1666315.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="395" height="263" class="shrinkToFit"/> </p><br>
+<p align="center"> <img src="https://images.pexels.com/photos/1666315/pexels-photo-1666315.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="https://images.pexels.com/photos/1666315/pexels-photo-1666315.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="640" height="427" class="shrinkToFit"/> </p><br>
 
 <h1 align="center">👋 Oi, Eu sou Sergio Ribeiro</h1>
 <h3 align="center">Aqui você encontra Front-End e Back-End, API Rest, React, JavaScript, Testes Automatizados Web.</h3>
@@ -45,8 +45,8 @@
 </p>
 
 <h3 align="left">Gráficos:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioribeiro7820&show_icons=true&theme=dark&locale=en&layout=compact" alt="sergioribeiro7820" width="300" height="200" /></p>
+<p><img heigth="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioribeiro7820&show_icons=true&theme=dark&locale=en&layout=compact" alt="sergioribeiro7820" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sergioribeiro7820&show_icons=true&theme=dark&locale=en" alt="sergioribeiro7820" width="300" height="200" /></p>
+<p><img heigth="130em" align="left" src="https://github-readme-stats.vercel.app/api?username=sergioribeiro7820&show_icons=true&theme=dark&locale=en" alt="sergioribeiro7820" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergioribeiro7820&theme=dark" alt="sergioribeiro7820" width="300" height="200" /></p>
+<p><img heigth="130em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergioribeiro7820&theme=dark" alt="sergioribeiro7820" /></p>
