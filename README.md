@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://images.pexels.com/photos/1666315/pexels-photo-1666315.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="https://images.pexels.com/photos/1666315/pexels-photo-1666315.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="640" height="427" class="shrinkToFit"/> </p><br>
+<p align="center"> <img src="https://images.pexels.com/photos/8294626/pexels-photo-8294626.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="https://images.pexels.com/photos/8294626/pexels-photo-8294626.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="600" height="400" /> </p>
 
 <h1 align="center">👋 Oi, Eu sou Sergio Ribeiro</h1>
 <h3 align="center">Aqui você encontra Front-End e Back-End, API Rest, React, JavaScript, Testes Automatizados Web.</h3>
